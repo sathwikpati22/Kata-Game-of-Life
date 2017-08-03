@@ -58,8 +58,8 @@ Design
 This code is designed and implemented in TDD.
 
 Execution
-The Main logic of the function is in Kata-Game-of-Life/src/main/GameGrid.java
-Run the Kata-Game-of-Life/src/main/mainClass.java to see the results 
+The Main logic of the function is in https://github.com/sathwikpati22/Kata-Game-of-Life/blob/master/src/main/GameGrid.java
+Run the https://github.com/sathwikpati22/Kata-Game-of-Life/blob/master/src/main/mainClass.java to see the results 
 You can change the values in the mainClass.java files and give custom values to view results 
 
 Running TestCases
