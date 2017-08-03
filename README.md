@@ -64,5 +64,5 @@ You can change the values in the mainClass.java files and give custom values to 
 
 Running TestCases
 The junit testcases are written for public functions 
-To test the junit testcases run the Kata-Game-of-Life/src/test/GridTest.java. Ideally all the testcases should run successfully
+To test the junit testcases run the https://github.com/sathwikpati22/Kata-Game-of-Life/blob/master/src/test/GridTest.java. Ideally all the testcases should run successfully
 
